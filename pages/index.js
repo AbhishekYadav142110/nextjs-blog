@@ -12,7 +12,7 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm a React developer learning Next for its various benifits like automatic chunk splitting, js based routing and many more...</p>
+        <p>I'm a React developer learning Next for its various benefits like automatic chunk splitting, js based routing and many more...</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
